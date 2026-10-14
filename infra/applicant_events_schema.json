@@ -1,0 +1,13 @@
+[
+  {"name": "applicant_id", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "program", "type": "STRING"},
+  {"name": "term", "type": "STRING"},
+  {"name": "source_channel", "type": "STRING"},
+  {"name": "current_stage", "type": "STRING"},
+  {"name": "inquiry_date", "type": "DATE"},
+  {"name": "app_started_date", "type": "DATE"},
+  {"name": "app_submitted_date", "type": "DATE"},
+  {"name": "admitted_date", "type": "DATE"},
+  {"name": "deposited_date", "type": "DATE"},
+  {"name": "record_updated_at", "type": "TIMESTAMP"}
+]
